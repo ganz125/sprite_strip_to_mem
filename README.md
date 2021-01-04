@@ -10,7 +10,7 @@
  <li>Output .MEM file tested with Altera Quartus Prime and Verilog using $readmemb() function to import data</li>
 </ul>
 
-More info at my website: http://ganslermike.com/?page_id=1619
+More info at my website: http://ganslermike.com/?page_id=1604
 
 <p align="center">
    Example image preview:
