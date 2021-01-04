@@ -11,7 +11,7 @@
 </ul>
 
 <p align="center">
-   Example of the image preview:
+   Example image preview:
    <br> <br>
-   <img src="example preview.PNG" height="300" align="center">
+   <img src="example preview.PNG" height="600" align="center">
 </p>
